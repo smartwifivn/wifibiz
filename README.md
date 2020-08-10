@@ -1,4 +1,4 @@
-# wifibiz - Wifi Marketing
+# Wifibiz - Wifi Marketing
 Giới thiệu dịch vụ wifi marketing thế hệ mới nhất sử dụng React làm frontend
 
 SmartWifi đã và đang phát triển một dịch vụ **[wifi marketing](https://smartwifi.com.vn)** rất mới với những công nghệ tiên tiến nhất.
